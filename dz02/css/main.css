@@ -1,0 +1,53 @@
+﻿*	{
+	box-sizing: border-box;
+}
+body	{
+	background-image: url("https://image.freepik.com/free-vector/polished-stucco-texture_23-2147506837.jpg");
+	background-repeat: repeat-y;
+	background-size: 100% auto;
+	font-family: 'Arial Narrow', sans-serif;
+	color: #000;
+}
+.wrapper	{
+	width: 49%;
+	background-color: rgba(0,0,0,.21);
+	margin: .7% auto 0;
+}
+.block	{
+	border-bottom: 1px solid gray;
+	width: 77%;
+	margin: 0 auto;
+	padding: 2.8%;
+}
+
+.image	{
+	text-align: center;
+}
+footer	{
+	border-bottom: none !important;
+}
+h1, h2, h3	{
+	text-align: center;
+	padding: 2.1%;
+}
+h1	{
+	font-size: 2.4em;
+}
+h2	{
+	font-size: 2em;
+}
+h3 	{
+	font-size: 1.6em;
+}
+
+a, li, p, span	{
+	color: gray;
+	font-size: 1.4em;
+	text-decoration: none;
+}
+ul, a, p, span	{
+	margin-left: 28%;
+}
+li	{
+	list-style: circle;
+}
